@@ -1,0 +1,11 @@
+#form1-l h4{
+  text-align: center;
+  font-size: 18px;
+  color: #9C0051;
+  padding-top: 10px;
+}
+#form1-l form{
+  width: 800px;
+  margin: auto;
+  padding-left: 230px;
+}
